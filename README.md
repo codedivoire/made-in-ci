@@ -6,15 +6,9 @@ Made in CI
 Repertoire du code Made in CI.
 </p>
 <p align="center">
-Montrons au monde que la CI produit du code, des qualites, des outils de qualite. Nous sommes non seulement consomateurs mais aussi createurs. Si vous etes developeurs et que vous avez cree un outil, une framework ou tout autre contribution open source, partagez la avec a travers cette vitrine du savoir faire ivoirien.
+Montrons au monde que la CI produit du code, des qualites, des outils de qualite. Nous sommes non seulement consomateurs mais aussi createurs. Si vous etes developeurs et que vous avez cree un outil, une framework ou tout autre contribution open source, partagez la avec a travers cette vitrine du savoir faire ivoirien. [Comment participer](contributing.md)
  </p>
 
-# Apportez votre contribution
-Si vous avez un ou plusieurs repertoire a ajouter, Fork and PR! Ajouter a la list suivante par order alphabetique. Votre PR doit apporter les modifications en Markdown valide selon le format suivant:
-```
-* [Nom de votre outil](https://<addresse du repertoire Github/Gitlab/Bitbucket>) - <Nom de l'outil>, <Description de votre outil>. **Par [<Votre nom/ @Twitter/>](https://<Lien vers votre profile Twitter/Github/Facebook etc>)**
-
-```
 
 
 [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z)
