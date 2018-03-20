@@ -5,9 +5,10 @@ Made in CI
 <p align="center">
 Repertoire du code Made in CI.
 </p>
-<p align="center">
+
+ 
 Montrons au monde que la CI produit du code, des qualites, des outils de qualite. Nous sommes non seulement consomateurs mais aussi createurs. Si vous etes developeurs et que vous avez cree un outil, une framework ou tout autre contribution open source, partagez la avec a travers cette vitrine du savoir faire ivoirien. [Comment participer](contributing.md)
- </p>
+
 
 
 
