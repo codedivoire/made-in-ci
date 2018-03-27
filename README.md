@@ -62,6 +62,7 @@ Montrons au monde que la CI produit du code, des qualites, des outils de qualite
 
 ## <a name="P"> </a>P
 
+* [Point Point game](https://github.com/EnighmaLab/pointpointgame>) - <Point Point game>, <Le fameux jeu à tour de rôle avec deux stylos de différents couleurs. Le but du jeu faire un carré avec des points de même couleur.>. **Par [<Gabeta Soro/ @GabetaSoro/>](https://github.com/gabeta>https://web.facebook.com/gaben.soro.9>https://medium.com/@gabeta.soro)**
 
 ## <a name="Q"> </a>Q
 
