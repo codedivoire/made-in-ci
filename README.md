@@ -41,6 +41,7 @@ Montrons au monde que la CI produit du code, des qualites, des outils de qualite
 
 ## <a name="I"> </a>I
 
+* [Ivoiro.js](https://github.com/EnighmaLab/Ivoiro.js) - Ivoiro.JS, En pensant je me suis dit pourquoi télécharger 50Ko voir même plus et souvent dépendre de Jquery pour formatter ses montants en CFA. Le but c'est de se passer des Kilos de JS pour faire des choses simple comme formatter un montant en CFA, Formatter un numéro de téléphone exemple : (+225) 00 00 00 00 / (+225) 000 00 000 ... Connaitre le réseaux mobile d'un numéro de téléphone. **Par [Gabeta Soro/ @GabetaSoro](https://github.com/gabeta)**
 
 ## <a name="J"> </a>J
 
