@@ -51,7 +51,7 @@ Montrons au monde que la CI produit du code, des qualites, des outils de qualite
 
 
 ## <a name="L"> </a>L
-
+* [Lorem Pixabay](https://github.com/samuelguebo/lorem-pixabay) - Un lorem ipsum mais pour les images. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 
 ## <a name="M"> </a>M
 * [Maria](http://github.com/samuelguebo/maria) - Un thème WordPress pour entreprise (Corporate), mobile-first et disponible en six couleurs. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
