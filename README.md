@@ -23,6 +23,7 @@ Montrons au monde que la CI produit du code, des qualites, des outils de qualite
 * [Bastille](http://github.com/samuelguebo/maria) - Concu pour les webzines, Bastille est un thème WordPress mobile-first et disponible en six couleurs. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 
 ## <a name="C"> </a>C
+* [Crud API Nodejs](https://github.com/samuelguebo/crud-api-nodejs) - Un modèle d'API Rest développé en Javascript et utilisant Nodejs, Express et MongoDb. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 
 
 ## <a name="D"> </a>D
