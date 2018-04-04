@@ -88,6 +88,7 @@ Montrons au monde que la CI produit du code, des qualites, des outils de qualite
 
 
 ## <a name="W"> </a>W
+* [Wikibot nodejs](https://github.com/samuelguebo/wikibot-nodejs) - Un robot Mediawiki dévéloppé en Node.js. Il effectue diverses tâches: téléchargement et photos vers Commons, modification d'articles Wikipedia, etc. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 
 
 ## <a name="X"> </a>X
