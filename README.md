@@ -55,6 +55,7 @@ Montrons au monde que la CI produit du code, des qualites, des outils de qualite
 
 ## <a name="M"> </a>M
 * [Maria](http://github.com/samuelguebo/maria) - Un thème WordPress pour entreprise (Corporate), mobile-first et disponible en six couleurs. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
+* [Maria CMS](http://github.com/samuelguebo/maria-cms) - Un CMS mininaliste en Java, utilisant Play framework! pour le backend, et Zurb Foundation pour le front-end. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 
 ## <a name="N"> </a>N
 
