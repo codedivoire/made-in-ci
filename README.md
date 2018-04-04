@@ -16,12 +16,14 @@ Montrons au monde que la CI produit du code, des qualites, des outils de qualite
 
 
 ## <a name="A"> </a>A
-
+* [Acajou](http://github.com/samuelguebo/acajou) - Destiné aux blogueurs, Acajou est un thème disponible sur le répertoire officiel de WordPress. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
+* [Arlene](http://github.com/samuelguebo/arlene) - Un thème WordPress pour association et autres organisation à but non-lucratif. Disponible en six couleurs et entièrement responsive. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 
 ## <a name="B"> </a>B
-
+* [Bastille](http://github.com/samuelguebo/maria) - Concu pour les webzines, Bastille est un thème WordPress mobile-first et disponible en six couleurs. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 
 ## <a name="C"> </a>C
+* [Crud API Nodejs](https://github.com/samuelguebo/crud-api-nodejs) - Un modèle d'API Rest développé en Javascript et utilisant Nodejs, Express et MongoDb. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 
 
 ## <a name="D"> </a>D
@@ -50,10 +52,11 @@ Montrons au monde que la CI produit du code, des qualites, des outils de qualite
 
 
 ## <a name="L"> </a>L
-
+* [Lorem Pixabay](https://github.com/samuelguebo/lorem-pixabay) - Un lorem ipsum mais pour les images. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 
 ## <a name="M"> </a>M
-
+* [Maria](http://github.com/samuelguebo/maria) - Un thème WordPress pour entreprise (Corporate), mobile-first et disponible en six couleurs. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
+* [Maria CMS](http://github.com/samuelguebo/maria-cms) - Un CMS mininaliste en Java, utilisant Play framework! pour le backend, et Zurb Foundation pour le front-end. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 
 ## <a name="N"> </a>N
 
@@ -73,10 +76,10 @@ Montrons au monde que la CI produit du code, des qualites, des outils de qualite
 
 
 ## <a name="S"> </a>S
-
+* [Shortee](https://github.com/samuelguebo/shortee-spring) - Un raccourcisseur de lien développé en Java (Spring) et utilisant [Zurb Foundation](https://github.com/zurb/foundation-sites) pour le front-end. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 
 ## <a name="T"> </a>T
-
+* [Tweety Mail](https://github.com/samuelguebo/tweety-mail) - Une extension WordPress qui récupère des tweets selon un interval et les envoie par mail. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 
 ## <a name="U"> </a>U
 
@@ -85,6 +88,7 @@ Montrons au monde que la CI produit du code, des qualites, des outils de qualite
 
 
 ## <a name="W"> </a>W
+* [Wikibot nodejs](https://github.com/samuelguebo/wikibot-nodejs) - Un robot Mediawiki dévéloppé en Node.js. Il effectue diverses tâches: téléchargement et photos vers Commons, modification d'articles Wikipedia, etc. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 
 
 ## <a name="X"> </a>X
