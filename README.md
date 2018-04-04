@@ -20,7 +20,7 @@ Montrons au monde que la CI produit du code, des qualites, des outils de qualite
 * [Arlene](http://github.com/samuelguebo/arlene) - Un thème WordPress pour association et autres organisation à but non-lucratif. Disponible en six couleurs et entièrement responsive. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 
 ## <a name="B"> </a>B
-
+* [Bastille](http://github.com/samuelguebo/maria) - Concu pour les webzines, Bastille est un thème WordPress mobile-first et disponible en six couleurs. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 
 ## <a name="C"> </a>C
 
