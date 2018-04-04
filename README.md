@@ -16,7 +16,8 @@ Montrons au monde que la CI produit du code, des qualites, des outils de qualite
 
 
 ## <a name="A"> </a>A
-* [Arlene](http://github.com/samuelguebo) - Un thème WordPress pour association et autres organisation à but non-lucratif. Disponible en six couleurs et entièrement responsive. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
+* [Acajou](http://github.com/samuelguebo/acajou) - Destiné aux blogueurs, Acajou est un thème disponible sur le répertoire officiel de WordPress. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
+* [Arlene](http://github.com/samuelguebo/arlene) - Un thème WordPress pour association et autres organisation à but non-lucratif. Disponible en six couleurs et entièrement responsive. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 
 ## <a name="B"> </a>B
 
