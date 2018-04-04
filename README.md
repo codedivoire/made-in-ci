@@ -74,7 +74,7 @@ Montrons au monde que la CI produit du code, des qualites, des outils de qualite
 
 
 ## <a name="S"> </a>S
-
+* [Shortee](https://github.com/samuelguebo/shortee-spring) - Un raccourcisseur de lien développé en Java (Spring) et utilisant [Zurb Foundation](https://github.com/zurb/foundation-sites) pour le front-end. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 
 ## <a name="T"> </a>T
 
