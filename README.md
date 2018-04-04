@@ -16,7 +16,7 @@ Montrons au monde que la CI produit du code, des qualites, des outils de qualite
 
 
 ## <a name="A"> </a>A
-
+* [Arlene](http://github.com/samuelguebo) - Un thème WordPress pour association et autres organisation à but non-lucratif. Disponible en six couleurs et entièrement responsive. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 
 ## <a name="B"> </a>B
 
