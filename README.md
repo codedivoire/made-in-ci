@@ -79,7 +79,7 @@ Montrons au monde que la CI produit du code, des qualites, des outils de qualite
 * [Shortee](https://github.com/samuelguebo/shortee-spring) - Un raccourcisseur de lien développé en Java (Spring) et utilisant [Zurb Foundation](https://github.com/zurb/foundation-sites) pour le front-end. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 
 ## <a name="T"> </a>T
-
+* [Tweety Mail](https://github.com/samuelguebo/tweety-mail) - Une extension WordPress qui récupère des tweets selon un interval et les envoie par mail. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 
 ## <a name="U"> </a>U
 
