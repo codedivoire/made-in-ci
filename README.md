@@ -64,6 +64,7 @@ Montrons au monde que la CI produit du code, des qualites, des outils de qualite
 
 ## <a name="O"> </a>O
 
+* [osms-php](https://github.com/ismaeltoe/osms-php) - <Osms>, Une librairie PHP pour accéder à l'API SMS d'Orange. **Par [Ismael Toé/ @ismaeltoe](https://twitter.com/ismaeltoe)**
 
 ## <a name="P"> </a>P
 
