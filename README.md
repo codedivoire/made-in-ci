@@ -1,19 +1,13 @@
-
 <h1 align="center">
 Made in CI
 </h1>
 <p align="center">
-Repertoire du code Made in CI.
+Répertoire du code Made in CI.
 </p>
 
- 
-Montrons au monde que la CI produit du code, des qualites, des outils de qualite. Nous sommes non seulement consomateurs mais aussi createurs. Si vous etes developeurs et que vous avez cree un outil, une framework ou tout autre contribution open source, partagez la avec a travers cette vitrine du savoir faire ivoirien. [Comment participer](contributing.md)
-
-
-
+Montrons au monde que la CI produit du code de qualité, des outils de qualité. Nous sommes non seulement consommateurs mais aussi créateurs. Si vos êtes développeurs et que vous avez créer un outil, une framework ou tout autre contribution open source, partagez là avec nous à travers cette vitrine du savoir-faire ivoirien. [Comment participer](contributing.md)
 
 [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z)
-
 
 ## <a name="A"> </a>A
 * [Acajou](http://github.com/samuelguebo/acajou) - Destiné aux blogueurs, Acajou est un thème disponible sur le répertoire officiel de WordPress. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
@@ -21,6 +15,8 @@ Montrons au monde que la CI produit du code, des qualites, des outils de qualite
 
 ## <a name="B"> </a>B
 * [Bastille](http://github.com/samuelguebo/maria) - Concu pour les webzines, Bastille est un thème WordPress mobile-first et disponible en six couleurs. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
+
+* [Bow framework](http://github.com/papac/bow) - *bow framework*, simplifié votre dévéloppement web, Bow est un micro framework écrit Par la communauté #Ayiyikoh et plusieurs autre contributeurs. Le but c'est de permettre aux débutants qui veulent travailler sur un projet un peu plus grand de s'y lancer. Afin de comprendre les rouages du developpement collaboratif.. **Par [Franck DAKIA/ @franck_dakia](https://twitter.com/franck_dakia)**
 
 ## <a name="C"> </a>C
 * [Crud API Nodejs](https://github.com/samuelguebo/crud-api-nodejs) - Un modèle d'API Rest développé en Javascript et utilisant Nodejs, Express et MongoDb. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
