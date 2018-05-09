@@ -7,6 +7,7 @@ Votre PR doit apporter les modifications en Markdown valide selon le format suiv
 
 ```
 * [Nom de votre outil](https://<addresse du repertoire Github/Gitlab/Bitbucket>) - <Nom de l'outil>, <Description de votre outil>. **Par [<Votre nom/ @Twitter/>](https://<Lien vers votre profile Twitter/Github/Facebook etc>)**
+
 ```
 
 Assurez de respecter les critères suivants:
