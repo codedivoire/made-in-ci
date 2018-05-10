@@ -53,6 +53,7 @@ Montrons au monde que la CI produit du code de qualité, des outils de qualité.
 ## <a name="M"> </a>M
 
 * [Maria](http://github.com/samuelguebo/maria) - Un thème WordPress pour entreprise (Corporate), mobile-first et disponible en six couleurs. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
+
 * [Maria CMS](http://github.com/samuelguebo/maria-cms) - Un CMS mininaliste en Java, utilisant Play framework! pour le backend, et Zurb Foundation pour le front-end. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 
 [Mars Collection](https://github.com/marsphp/collection) - Un package php permettant de gérer vos collections avec des méthodes sympas. **Par [Houssene Dao/ @houssenedao](https://github.com/houssenedao) & [Hassane Dao/ @daohassane](https://github.com/daohassane)**
