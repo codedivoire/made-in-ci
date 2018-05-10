@@ -22,6 +22,7 @@ Montrons au monde que la CI produit du code, des qualites, des outils de qualite
 
 ## <a name="B"> </a>B
 * [Bastille](http://github.com/samuelguebo/maria) - Concu pour les webzines, Bastille est un thème WordPress mobile-first et disponible en six couleurs. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
+* [B-Chat](https://github.com/Dredev1234M/Bchat) - BChat est un modèle moderne HTML APP et Mobile.Il comprend une grande variété d'éléments pré-développés et conçus; un design très moderne et élégant et, en plus de cela, utilise une mise en page flexible qui s'adaptera à toute résolution mobile. **Par [Euphrate Andre Atchori/ @dredev1234M](https://github.com/Dredev1234M)**
 
 ## <a name="C"> </a>C
 * [Crud API Nodejs](https://github.com/samuelguebo/crud-api-nodejs) - Un modèle d'API Rest développé en Javascript et utilisant Nodejs, Express et MongoDb. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
