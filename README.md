@@ -55,6 +55,7 @@ Montrons au monde que la CI produit du code, des qualites, des outils de qualite
 
 ## <a name="L"> </a>L
 * [Lorem Pixabay](https://github.com/samuelguebo/lorem-pixabay) - Un lorem ipsum mais pour les images. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
+* [Landing-Page App](https://github.com/Dredev1234M/landing_page_app) - Presenter votre application mobile avec cette magnifique Landing Page **Par [Euphrate Andre Atchori/ @dredev1234M](https://github.com/Dredev1234M)**
 
 ## <a name="M"> </a>M
 
