@@ -56,9 +56,13 @@ Montrons au monde que la CI produit du code de qualité, des outils de qualité.
 
 * [Maria CMS](http://github.com/samuelguebo/maria-cms) - Un CMS mininaliste en Java, utilisant Play framework! pour le backend, et Zurb Foundation pour le front-end. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 
-[Mars Collection](https://github.com/marsphp/collection) - Un package php permettant de gérer vos collections avec des méthodes sympas. **Par [Houssene Dao/ @houssenedao](https://github.com/houssenedao) & [Hassane Dao/ @daohassane](https://github.com/daohassane)**
+* [Mars Collection](https://github.com/marsphp/collection) - Un package php permettant de gérer vos collections avec des méthodes sympas. **Par [Houssene Dao/ @houssenedao](https://github.com/houssenedao) & [Hassane Dao/ @daohassane](https://github.com/daohassane)**
 
-[Mars Scheduler](https://github.com/marsphp/scheduler) - Un package php permettant de mettre des tâches en cron job. **Par [Houssene Dao/ @houssenedao](https://github.com/houssenedao) & [Hassane Dao/ @daohassane](https://github.com/daohassane)**
+* [Mars Helpers](https://github.com/marsphp/helpers) - Un package php permettant d'utiliser des helpers pour vous faciliter certaines tâches demandant assez d'écriture de code. **Par [Houssene Dao/ @houssenedao](https://github.com/houssenedao) & [Hassane Dao/ @daohassane](https://github.com/daohassane)**
+
+* [Mars Scheduler](https://github.com/marsphp/scheduler) - Un package php permettant de mettre des tâches en cron job. **Par [Houssene Dao/ @houssenedao](https://github.com/houssenedao) & [Hassane Dao/ @daohassane](https://github.com/daohassane)**
+
+* [Mars Logging](https://github.com/marsphp/logging) - Un package php permettant d'ecrire vos logs. **Par [Houssene Dao/ @houssenedao](https://github.com/houssenedao) & [Hassane Dao/ @daohassane](https://github.com/daohassane)**
 
 ## <a name="N"> </a>N
 
