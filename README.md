@@ -18,6 +18,7 @@ Montrons au monde que la CI produit du code, des qualites, des outils de qualite
 ## <a name="A"> </a>A
 * [Acajou](http://github.com/samuelguebo/acajou) - Destiné aux blogueurs, Acajou est un thème disponible sur le répertoire officiel de WordPress. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 * [Arlene](http://github.com/samuelguebo/arlene) - Un thème WordPress pour association et autres organisation à but non-lucratif. Disponible en six couleurs et entièrement responsive. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
+* [All-in-one](https://github.com/Dredev1234M/all-in-one) - All-in-One est un UIKIT developpe avec HTML5 et JQuery facile a customiser, leger et simple. **Par [Euphrate Andre Atchori/@dredev1234M](https://github.com/Dredev1234M)**
 
 ## <a name="B"> </a>B
 * [Bastille](http://github.com/samuelguebo/maria) - Concu pour les webzines, Bastille est un thème WordPress mobile-first et disponible en six couleurs. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
