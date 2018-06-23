@@ -12,7 +12,7 @@ Montrons au monde que la CI produit du code de qualité, des outils de qualité.
 ## <a name="A"> </a>A
 * [Acajou](http://github.com/samuelguebo/acajou) - Destiné aux blogueurs, Acajou est un thème disponible sur le répertoire officiel de WordPress. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 * [Arlene](http://github.com/samuelguebo/arlene) - Un thème WordPress pour association et autres organisation à but non-lucratif. Disponible en six couleurs et entièrement responsive. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
-* [Alasco-Auto-Correct](https://github.com/gagieci/Alasco-Auto-Correct) - Alasco Auto Correct est une extension chrome qui permet de corriger le nom ... en Alasco ! **Par [Jean-Vincent KASSI/ @jvkassi](https://twitter.com/jvkassi)
+* [Alasco-Auto-Correct](https://github.com/gagieci/Alasco-Auto-Correct) - Alasco Auto Correct est une extension chrome qui permet de corriger le nom ... en Alasco ! **Par [Jean-Vincent KASSI/ @jvkassi](https://twitter.com/jvkassi)**
 * [All-in-one](https://github.com/Dredev1234M/all-in-one) - All-in-One est un UIKIT developpe avec HTML5 et JQuery facile a customiser, leger et simple. **Par [Euphrate Andre Atchori/ @dredev1234M](https://github.com/Dredev1234M)**
 
 ## <a name="B"> </a>B
