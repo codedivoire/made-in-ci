@@ -70,7 +70,7 @@ Montrons au monde que la CI produit du code de qualité, des outils de qualité.
 
 ## <a name="N"> </a>N
 
-[Ng2 Acl](https://github.com/daoudaDiallo/ng2-acl) - Ng2 Acl(npm i ng2-acl), Role based permissions for Angular v2++.. **Par [Daouda Diallo](https://github.com/daoudaDiallo)**
+* [Ng2 Acl](https://github.com/daoudaDiallo/ng2-acl) - Ng2 Acl(npm i ng2-acl), Role based permissions for Angular v2++.. **Par [Daouda Diallo](https://github.com/daoudaDiallo)**
 
 ## <a name="O"> </a>O
 
