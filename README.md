@@ -11,12 +11,16 @@ Montrons au monde que la CI produit du code de qualité, des outils de qualité.
 
 ## <a name="A"> </a>A
 * [Acajou](http://github.com/samuelguebo/acajou) - Destiné aux blogueurs, Acajou est un thème disponible sur le répertoire officiel de WordPress. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
+
 * [Arlene](http://github.com/samuelguebo/arlene) - Un thème WordPress pour association et autres organisation à but non-lucratif. Disponible en six couleurs et entièrement responsive. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
+
 * [Alasco-Auto-Correct](https://github.com/gagieci/Alasco-Auto-Correct) - Alasco Auto Correct est une extension chrome qui permet de corriger le nom ... en Alasco ! **Par [Jean-Vincent KASSI/ @jvkassi](https://twitter.com/jvkassi)**
+
 * [All-in-one](https://github.com/Dredev1234M/all-in-one) - All-in-One est un UIKIT developpe avec HTML5 et JQuery facile a customiser, leger et simple. **Par [Euphrate Andre Atchori/ @dredev1234M](https://github.com/Dredev1234M)**
 
 ## <a name="B"> </a>B
 * [Bastille](http://github.com/samuelguebo/maria) - Concu pour les webzines, Bastille est un thème WordPress mobile-first et disponible en six couleurs. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
+
 * [B-Chat](https://github.com/Dredev1234M/Bchat) - BChat est un modèle moderne HTML APP et Mobile.Il comprend une grande variété d'éléments pré-développés et conçus; un design très moderne et élégant et, en plus de cela, utilise une mise en page flexible qui s'adaptera à toute résolution mobile. **Par [Euphrate Andre Atchori/ @dredev1234M](https://github.com/Dredev1234M)**
 
 * [Bow framework](http://github.com/bowphp) - *bow framework*, simplifié votre dévéloppement web, Bow est un micro framework écrit Par la communauté #Ayiyikoh et plusieurs autres contributeurs. Le but c'est de permettre aux débutants qui veulent travailler sur un projet un peu plus grand de s'y lancer. Afin de comprendre les rouages du développement collaboratif.. **Par [Franck DAKIA/ @franck_dakia](https://twitter.com/franck_dakia)**
@@ -52,6 +56,7 @@ Montrons au monde que la CI produit du code de qualité, des outils de qualité.
 
 ## <a name="L"> </a>L
 * [Lorem Pixabay](https://github.com/samuelguebo/lorem-pixabay) - Un lorem ipsum mais pour les images. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
+
 * [Landing-Page App](https://github.com/Dredev1234M/landing_page_app) - Presenter votre application mobile avec cette magnifique Landing Page **Par [Euphrate Andre Atchori/ @dredev1234M](https://github.com/Dredev1234M)**
 
 ## <a name="M"> </a>M
