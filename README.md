@@ -89,7 +89,7 @@ Montrons au monde que la CI produit du code de qualité, des outils de qualité.
 ## <a name="S"> </a>S
 * [Shortee](https://github.com/samuelguebo/shortee-spring) - Un raccourcisseur de lien développé en Java (Spring) et utilisant [Zurb Foundation](https://github.com/zurb/foundation-sites) pour le front-end. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 
-* [Superman versioning](https://github.com/TheMartianGeeks/superman) - Gerer vos soucis de versioning avec `superman` un `CLI` vous permettant de mettre à jour la version de votre projet dans le fichier `package.json` **Par [Houssene Dao/ @houssenedao](https://github.com/houssenedao) & [Hassane Dao/ @daohassane](https://github.com/daohassane)**
+* [Superman versioning](https://github.com/akiltech/superman) - Gerer vos soucis de versioning avec `superman` un `CLI` vous permettant de mettre à jour la version de votre projet dans le fichier `package.json` **Par [Akil Technologies/ @akiltech](https://github.com/akiltech/superman)**
 
 ## <a name="T"> </a>T
 * [Tweety Mail](https://github.com/samuelguebo/tweety-mail) - Une extension WordPress qui récupère des tweets selon un interval et les envoie par mail. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
