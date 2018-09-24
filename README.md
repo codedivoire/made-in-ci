@@ -77,6 +77,8 @@ Montrons au monde que la CI produit du code de qualité, des outils de qualité.
 
 * [Ng2 Acl](https://github.com/daoudaDiallo/ng2-acl) - Ng2 Acl(npm i ng2-acl), Role based permissions for Angular v2++.. **Par [Daouda Diallo](https://github.com/daoudaDiallo)**
 
+* [ng-open-cv](https://github.com/devakone/ng-open-cv) - Integration OpenCV.js et Angular 6+ a travers un service. Installez avec `npm i ng-open-cv` **Par [Abou Kone](https://github.com/devakone)**
+
 ## <a name="O"> </a>O
 
 * [osms-php](https://github.com/ismaeltoe/osms-php) - <Osms>, Une librairie PHP pour accéder à l'API SMS d'Orange. **Par [Ismael Toé/ @ismaeltoe](https://twitter.com/ismaeltoe)**
