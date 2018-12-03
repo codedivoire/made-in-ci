@@ -115,7 +115,7 @@ Montrons au monde que la CI produit du code de qualité, des outils de qualité.
 
 
 ## <a name="Y"> </a>Y
-
+* [Yoda](https://dgsdion.me/yoda) - Yoda, un outil simple permettant de remplacer des variables dans un template par leur valeur correspondante. Il est utile si l'on veut par exemple envoyer le même message à plusieurs personnes sans avoir à entrer manuellement leurs cordonnées. **Par [Salomon Dion / @mrdionjr](https://dgsdion.me)**
 
 ## <a name="Z"> </a>Z
 
