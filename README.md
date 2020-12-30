@@ -59,6 +59,8 @@ Montrons au monde que la CI produit du code de qualité, des outils de qualité.
 
 * [Landing-Page App](https://github.com/Dredev1234M/landing_page_app) - Presenter votre application mobile avec cette magnifique Landing Page **Par [Euphrate Andre Atchori/ @dredev1234M](https://github.com/Dredev1234M)**
 
+* [lara-pnn](https://github.com/gabeta/lara-pnn) - Lara-pnn est un package laravel qui vous permet de formater votre numéro de téléphone dans le nouveau format ivoirien (passer de 8 chiffres à 10 chiffres). **Par [Gabeta Soro/ @GabetaSoro](https://github.com/gabeta)**
+
 ## <a name="M"> </a>M
 
 * [Maria](http://github.com/samuelguebo/maria) - Un thème WordPress pour entreprise (Corporate), mobile-first et disponible en six couleurs. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
