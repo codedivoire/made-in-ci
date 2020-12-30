@@ -81,6 +81,8 @@ Montrons au monde que la CI produit du code de qualité, des outils de qualité.
 
 * [ng-open-cv](https://github.com/devakone/ng-open-cv) - Integration OpenCV.js et Angular 6+ a travers un service. Installez avec `npm i ng-open-cv` **Par [Abou Kone](https://github.com/devakone)**
 
+* [numbering-plan](https://github.com/ouattararomuald/numbering-plan) - A library to help you migrate exiting phone numbers format to new phone number formats. **Par [Romuald Ouattara](https://github.com/ouattararomuald)**
+
 ## <a name="O"> </a>O
 
 * [osms-php](https://github.com/ismaeltoe/osms-php) - <Osms>, Une librairie PHP pour accéder à l'API SMS d'Orange. **Par [Ismael Toé/ @ismaeltoe](https://twitter.com/ismaeltoe)**
@@ -99,6 +101,8 @@ Montrons au monde que la CI produit du code de qualité, des outils de qualité.
 * [Shortee](https://github.com/samuelguebo/shortee-spring) - Un raccourcisseur de lien développé en Java (Spring) et utilisant [Zurb Foundation](https://github.com/zurb/foundation-sites) pour le front-end. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 
 * [Superman versioning](https://github.com/akiltech/superman) - Gerer vos soucis de versioning avec `superman` un `CLI` vous permettant de mettre à jour la version de votre projet dans le fichier `package.json` **Par [Akil Technologies/ @akiltech](https://github.com/akiltech/superman)**
+
+* [Syndication](https://github.com/ouattararomuald/syndication) - A Kotlin library for reading RSS 2.0 and ATOM 1.0 syndication feeds. **Par [Romuald Ouattara](https://github.com/ouattararomuald)**
 
 ## <a name="T"> </a>T
 * [Tweety Mail](https://github.com/samuelguebo/tweety-mail) - Une extension WordPress qui récupère des tweets selon un interval et les envoie par mail. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
