@@ -30,6 +30,7 @@ Montrons au monde que la CI produit du code de qualité, des outils de qualité.
 
 
 ## <a name="D"> </a>D
+* [Django form fieldset](https://github.com/hadpro24/django-forms-fieldset) - Django forms fieldset, ensemble de champs de formulaire Django inspire des champs d'administration Django. **Par [<Harouna Diallo/ @hadpro24/>](https://https://github.com/hadpro24)**
 
 
 ## <a name="E"> </a>E
