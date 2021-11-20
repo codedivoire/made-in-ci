@@ -28,6 +28,7 @@ Montrons au monde que la CI produit du code de qualité, des outils de qualité.
 ## <a name="C"> </a>C
 * [Crud API Nodejs](https://github.com/samuelguebo/crud-api-nodejs) - Un modèle d'API Rest développé en Javascript et utilisant Nodejs, Express et MongoDb. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
 
+* [CountriesHelper](https://github.com/eliseekn/countries-helper) - Package laravel qui est un helper pour le package [Countries for laravel](https://github.com/antonioribeiro/countries-laravel). **Par [N'Guessan Kouadio Elisée / @eliseekn](https://twitter.com/eliseekn)**
 
 ## <a name="D"> </a>D
 * [Django form fieldset](https://github.com/hadpro24/django-forms-fieldset) - Django forms fieldset, ensemble de champs de formulaire Django inspire des champs d'administration Django. **Par [<Harouna Diallo/ @hadpro24/>](https://https://github.com/hadpro24)**
@@ -61,6 +62,8 @@ Montrons au monde que la CI produit du code de qualité, des outils de qualité.
 * [Landing-Page App](https://github.com/Dredev1234M/landing_page_app) - Presenter votre application mobile avec cette magnifique Landing Page **Par [Euphrate Andre Atchori/ @dredev1234M](https://github.com/Dredev1234M)**
 
 * [lara-pnn](https://github.com/gabeta/lara-pnn) - Lara-pnn est un package laravel qui vous permet de formater votre numéro de téléphone dans le nouveau format ivoirien (passer de 8 chiffres à 10 chiffres). **Par [Gabeta Soro/ @GabetaSoro](https://github.com/gabeta)**
+
+* [LaravelMetrics](https://github.com/eliseekn/laravel-metrics) - Package laravel qui permet de générer des données métriques à partir de la base de données. **Par [N'Guessan Kouadio Elisée / @eliseekn](https://twitter.com/eliseekn)**
 
 ## <a name="M"> </a>M
 
@@ -107,6 +110,8 @@ Montrons au monde que la CI produit du code de qualité, des outils de qualité.
 
 ## <a name="T"> </a>T
 * [Tweety Mail](https://github.com/samuelguebo/tweety-mail) - Une extension WordPress qui récupère des tweets selon un interval et les envoie par mail. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
+
+* [TinyMVC](https://github.com/eliseekn/tinymvc) - TinyMVC est un framework PHP basé sur l'architecture MVC qui permet de développer facilement et rapidement des applications web et des API RESTful. **Par [N'Guessan Kouadio Elisée / @eliseekn](https://twitter.com/eliseekn)**
 
 ## <a name="U"> </a>U
 
