@@ -81,6 +81,10 @@ Montrons au monde que la CI produit du code de qualité, des outils de qualité.
 
 ## <a name="N"> </a>N
 
+* [NestJS hasher](https://github.com/sinuoslabs/nestjs-hasher) - NestJS hasher, A library to help you hash passwords, for NestJS **Par [Houssene Dao](https://twitter.com/houssenedao) / [Hassane Dao](https://twitter.com/hassanedao)**
+
+* [NestJS notification](https://github.com/sinuoslabs/nestjs-notification) - NestJS notification, Send notification based on channel **Par [Houssene Dao](https://twitter.com/houssenedao) / [Hassane Dao](https://twitter.com/hassanedao)**
+
 * [Ng2 Acl](https://github.com/daoudaDiallo/ng2-acl) - Ng2 Acl(npm i ng2-acl), Role based permissions for Angular v2++.. **Par [Daouda Diallo](https://github.com/daoudaDiallo)**
 
 * [ng-open-cv](https://github.com/devakone/ng-open-cv) - Integration OpenCV.js et Angular 6+ a travers un service. Installez avec `npm i ng-open-cv` **Par [Abou Kone](https://github.com/devakone)**
