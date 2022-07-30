@@ -65,6 +65,8 @@ Montrons au monde que la CI produit du code de qualité, des outils de qualité.
 
 * [LaravelMetrics](https://github.com/eliseekn/laravel-metrics) - Package laravel qui permet de générer des données métriques à partir de la base de données. **Par [N'Guessan Kouadio Elisée / @eliseekn](https://twitter.com/eliseekn)**
 
+* [laravel-custom-sms-channels](https://github.com/gabeta/laravel-custom-sms-channels) - est un package qui vous permet de combiner plusieurs services d'envoi de SMS dans un même projet sans ajouter de code supplémentaire. Il vous offre une possibilité de prévisualiser vos SMS localement. **Par [Gabeta Soro/ @GabetaSoro](https://github.com/gabeta)**
+
 ## <a name="M"> </a>M
 
 * [Maria](http://github.com/samuelguebo/maria) - Un thème WordPress pour entreprise (Corporate), mobile-first et disponible en six couleurs. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
