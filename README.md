@@ -67,6 +67,10 @@ Montrons au monde que la CI produit du code de qualité, des outils de qualité.
 
 * [laravel-custom-sms-channels](https://github.com/gabeta/laravel-custom-sms-channels) - est un package qui vous permet de combiner plusieurs services d'envoi de SMS dans un même projet sans ajouter de code supplémentaire. Il vous offre une possibilité de prévisualiser vos SMS localement. **Par [Gabeta Soro/ @GabetaSoro](https://github.com/gabeta)**
 
+* [laravel-sanctum-starter-kit](https://github.com/eliseekn/laravel-sanctum-starter-kit) - An opinionated Laravel starter kit for RESTful API development with Sanctum. **Par [N'Guessan Kouadio Elisée / @eliseekn](https://twitter.com/eliseekn)**
+
+* [laravel-react-starter-kit](https://github.com/eliseekn/laravel-react-starter-kit) - Laravel and React.js monolithic architecture starter kit. **Par [N'Guessan Kouadio Elisée / @eliseekn](https://twitter.com/eliseekn)**
+
 ## <a name="M"> </a>M
 
 * [Maria](http://github.com/samuelguebo/maria) - Un thème WordPress pour entreprise (Corporate), mobile-first et disponible en six couleurs. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
@@ -97,6 +101,8 @@ Montrons au monde que la CI produit du code de qualité, des outils de qualité.
 
 * [osms-php](https://github.com/ismaeltoe/osms-php) - <Osms>, Une librairie PHP pour accéder à l'API SMS d'Orange. **Par [Ismael Toé/ @ismaeltoe](https://twitter.com/ismaeltoe)**
 
+* [OpenStreetMapSearchPlace](https://github.com/eliseekn/react-native-openstreetmap-search-places) - A React Native component to search places using OpenStreetMap. **Par [N'Guessan Kouadio Elisée / @eliseekn](https://twitter.com/eliseekn)**
+
 ## <a name="P"> </a>P
 
 * [Point Point game](https://github.com/EnighmaLab/pointpointgame) - Point Point game, Le fameux jeu à tour de rôle avec deux stylos de différents couleurs. Le but du jeu faire un carré avec des points de même couleur.. **Par [Gabeta Soro/ @GabetaSoro](https://github.com/gabeta)**
@@ -106,6 +112,7 @@ Montrons au monde que la CI produit du code de qualité, des outils de qualité.
 
 ## <a name="R"> </a>R
 
+* [react-native-paper-form-components](https://github.com/eliseekn/react-native-paper-form-components) - A set of highly customizable form components for React Native Paper. **Par [N'Guessan Kouadio Elisée / @eliseekn](https://twitter.com/eliseekn)**
 
 ## <a name="S"> </a>S
 * [Shortee](https://github.com/samuelguebo/shortee-spring) - Un raccourcisseur de lien développé en Java (Spring) et utilisant [Zurb Foundation](https://github.com/zurb/foundation-sites) pour le front-end. **Par [Samuel Guebo/ @samuelguebo](https://twitter.com/samuelguebo)**
